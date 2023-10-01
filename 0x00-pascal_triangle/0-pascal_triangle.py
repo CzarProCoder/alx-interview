@@ -5,7 +5,7 @@ Module containing function that prints a pascal's triangle
 '''
 
 
-def pascals_triangle(n):
+def pascal_triangle(n):
     '''
     Function that returns a list of lists of
     integers representing the Pascals triangle of n
