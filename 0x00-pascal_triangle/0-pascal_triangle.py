@@ -4,6 +4,7 @@
 Module containing function that prints a pascal's triangle
 '''
 
+
 def pascals_triangle(n):
     '''
     Function that returns a list of lists of
@@ -22,5 +23,3 @@ def pascals_triangle(n):
         row.append(1)
         triangle.append(row)
     return triangle
-
-print(pascals_triangle(5))
