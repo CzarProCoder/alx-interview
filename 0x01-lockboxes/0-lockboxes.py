@@ -11,7 +11,7 @@ def canUnlockAll(boxes):
 
     Args:
         boxes (List): Contains a list of lists with numbers
-    
+
     Return:
         False: If some boxes cannot be opened
         True: If all boxes can be opened
