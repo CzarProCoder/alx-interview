@@ -11,7 +11,7 @@ def validUTF8(data) -> bool:
 
     Args:
         data (any): Data to be evaluated
-    
+
     Returns:
         True: If data is of valid utf-8
         False: If data is not valid utf-8
